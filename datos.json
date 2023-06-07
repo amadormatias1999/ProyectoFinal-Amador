@@ -1,0 +1,84 @@
+{
+  "combos": [
+    {
+      "Nombre": "Combo: Remerukis",
+      "Info": "Este comobo incluye dos remeras oversize negras marca Ribers",
+      "Precio": 1000,
+      "Imagen": "../img/Ropa/clement-vatte-o5-3txB1M3w-unsplash.webp"
+    },
+    {
+      "Nombre": "Combo: Completo",
+      "Info": "El combo completo incluye una remera y un jean marca Calvo Clint",
+      "Precio": 2000,
+      "Imagen": "../img/Ropa/hamza-nouasria-owpsBDBK5nY-unsplash.webp"
+    },
+    {
+      "Nombre": "Combo: Completo + 1",
+      "Info": "Este combo incluye un jean mom , una remera y un piluso de regalo",
+      "Precio": 3000,
+      "Imagen": "../img/Ropa/daniel-koponyas-5vBeVgdPP7w-unsplash.webp"
+    },
+    {
+      "Nombre": "Combo: Completo x2",
+      "Info": "Este combo incluye dos jean y dos remeras",
+      "Precio": 4000,
+      "Imagen": "../img/Ropa/ns-37rVmK3jY-c-unsplash.webp"
+    },
+    {
+      "Nombre": "Combo: Aesthetic",
+      "Info": "Este combo incluye una campera gastada y un par de zapatillas \"Conversemos\"",
+      "Precio": 5000,
+      "Imagen": "../img/Ropa/joshua-rondeau-ZCLAQEPf4Zc-unsplash.webp"
+    },
+    {
+      "Nombre": "Combo: Total Black",
+      "Info": "Este combo incluye un outfit completamente dark, para que en las noches no te reconozcan",
+      "Precio": 5500,
+      "Imagen": "../img/Ropa/pexels-david-duky-6331511.webp"
+    },
+    {
+      "Nombre": "Combo: Total White",
+      "Info": "Este combo incluye un outfit completamente white.",
+      "Precio": 5600,
+      "Imagen": "../img/Ropa/pexels-ficky-2364573.webp"
+    }
+  ],
+  "calzados": [
+    {
+      "Nombre": "Nike Air Force",
+      "Info": "Nike blanca",
+      "Precio": 4599,
+      "Imagen": "../img/Calzados/jeff-tumale-SD9Jyl1xNQ4-unsplash.webp"
+    },
+    {
+      "Nombre": "Nike Air Force Custom",
+      "Info": "Nike blanca con negro",
+      "Precio": 5500,
+      "Imagen": "../img/Calzados/ryan-plomp-PGTO_A0eLt4-unsplash.webp"
+    },
+    {
+      "Nombre": "Nike Running",
+      "Info": "Zapatillas para correr ultra livianas",
+      "Precio": 7999,
+      "Imagen": "../img/Calzados/usama-akram-kP6knT7tjn4-unsplash.webp"
+    },
+    {
+      "Nombre": "Converse Chuck Taylor",
+      "Info": "Coverse Roja",
+      "Precio": 6000,
+      "Imagen": "../img/Calzados/yadu-krishnan-k-s-VxeCp3RHxOg-unsplash.webp"
+    },
+    {
+      "Nombre": "Converse Chuck Taylor",
+      "Info": "Coverse chuck 70 Custom",
+      "Precio": 9000,
+      "Imagen": "../img/Calzados/dan-edge-BeZGTKfVEOs-unsplash.webp"
+    },
+    {
+      "Nombre": "Converse Chuck Taylor",
+      "Info": "Coverse negra clasica",
+      "Precio": 8500,
+      "Imagen": "../img/Calzados/darklabs-india-g9JTq14wBQM-unsplash.webp"
+    }
+  ]
+}
